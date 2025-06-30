@@ -1,5 +1,6 @@
 ## Hi there 👋
 ## 🚀 Meine GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lxvrqz)](#)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxvrqz&layout=compact&theme=radical)](#)
+
 
 
