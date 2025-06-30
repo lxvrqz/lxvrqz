@@ -1,3 +1,4 @@
 ## Hi there 👋
 ## 🚀 Meine GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lxvrqz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deinBenutzername&layout=compact&theme=radical)
+
