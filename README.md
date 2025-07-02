@@ -1,7 +1,7 @@
 ## Hello 👋
 ## 🚀 My Projects
 
-[My Projects](https://github.com/lxvrqz/tab=repositories)
+[My Projects](https://github.com/lxvrqz?tab=repositories)
 
 ## 📊 GitHub Stats
 
